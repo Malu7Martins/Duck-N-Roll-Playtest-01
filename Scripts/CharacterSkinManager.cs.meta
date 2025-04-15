@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: bf0c1512dc9af9e4cbf084efca72d8e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - duckSprite: {instanceID: 0}
+  - fireSprite: {instanceID: 0}
+  - waterSprite: {instanceID: 0}
+  - iceSprite: {instanceID: 0}
+  - electricSprite: {instanceID: 0}
+  - ghostSprite: {instanceID: 0}
+  - duckController: {instanceID: 0}
+  - fireController: {instanceID: 0}
+  - waterController: {instanceID: 0}
+  - iceController: {instanceID: 0}
+  - electricController: {instanceID: 0}
+  - ghostController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

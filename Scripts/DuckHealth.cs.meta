@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7374dfd64e5c3864581469f347311765
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - imagemVida: {instanceID: 0}
+  - spriteVerde: {fileID: 21300000, guid: 336b27d30f011524c8a4b596f4a6d2ae, type: 3}
+  - spriteAzul: {fileID: 21300000, guid: 245ce33c941203045ba81259a0ad354f, type: 3}
+  - spriteVermelho: {fileID: 21300000, guid: f927527ab245e484fa248c906ad3f14c, type: 3}
+  - spriteCinza: {fileID: 21300000, guid: cef3db983f15dc3468429e44925c1cea, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
