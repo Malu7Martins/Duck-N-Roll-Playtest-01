@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: c70ec99a954938a4fb8d1fe852bee093
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5511486263220537559
+    second: bubbles2_0
+  - first:
+      213: -4657147397927546257
+    second: bubbles2_1
+  - first:
+      213: 292317580349216849
+    second: bubbles2_2
+  - first:
+      213: -619301794471859954
+    second: bubbles2_3
+  - first:
+      213: 5197901692019929204
+    second: bubbles2_4
+  - first:
+      213: -8427901966837856712
+    second: bubbles2_5
+  - first:
+      213: 5029183313241825152
+    second: bubbles2_6
+  - first:
+      213: 664860029329137271
+    second: bubbles2_7
+  - first:
+      213: 7427332923633740917
+    second: bubbles2_8
+  - first:
+      213: -2306352903551392229
+    second: bubbles2_9
+  - first:
+      213: 5918496033294881951
+    second: bubbles2_10
+  - first:
+      213: 6853771657619881920
+    second: bubbles2_11
+  - first:
+      213: 1022717276360430989
+    second: bubbles2_12
+  - first:
+      213: -8292315888163266443
+    second: bubbles2_13
+  - first:
+      213: -3490766188032412429
+    second: bubbles2_14
+  - first:
+      213: -9027479617661420802
+    second: bubbles2_15
+  - first:
+      213: -7053118972754275105
+    second: bubbles2_16
+  - first:
+      213: -3886288218584144391
+    second: bubbles2_17
+  - first:
+      213: 2928845818618296395
+    second: bubbles2_18
+  - first:
+      213: 7538103216077632632
+    second: bubbles2_19
+  - first:
+      213: -1240959753567147145
+    second: bubbles2_20
+  - first:
+      213: 2876706494190768131
+    second: bubbles2_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bubbles2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d884b72e8bbc7c40800000000000000
+      internalID: 5511486263220537559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d234abb8d6bb3a345a4f00111ae278aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bubbles2_0: 5511486263220537559
+      bubbles2_1: -4657147397927546257
+      bubbles2_10: 5918496033294881951
+      bubbles2_11: 6853771657619881920
+      bubbles2_12: 1022717276360430989
+      bubbles2_13: -8292315888163266443
+      bubbles2_14: -3490766188032412429
+      bubbles2_15: -9027479617661420802
+      bubbles2_16: -7053118972754275105
+      bubbles2_17: -3886288218584144391
+      bubbles2_18: 2928845818618296395
+      bubbles2_19: 7538103216077632632
+      bubbles2_2: 292317580349216849
+      bubbles2_20: -1240959753567147145
+      bubbles2_21: 2876706494190768131
+      bubbles2_3: -619301794471859954
+      bubbles2_4: 5197901692019929204
+      bubbles2_5: -8427901966837856712
+      bubbles2_6: 5029183313241825152
+      bubbles2_7: 664860029329137271
+      bubbles2_8: 7427332923633740917
+      bubbles2_9: -2306352903551392229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
