@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: e512c1e39e4e0c24c8b18a7a5c79a5de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8963145772455704128
+    second: ice.duck.sprites_0
+  - first:
+      213: 2705225472392544432
+    second: ice.duck.sprites_1
+  - first:
+      213: -8524142559577200178
+    second: ice.duck.sprites_2
+  - first:
+      213: -4448556335300280021
+    second: ice.duck.sprites_3
+  - first:
+      213: 4479198632183840694
+    second: ice.duck.sprites_4
+  - first:
+      213: 2591825184634137490
+    second: ice.duck.sprites_5
+  - first:
+      213: 6635608176356458237
+    second: ice.duck.sprites_6
+  - first:
+      213: 2304160573050813672
+    second: ice.duck.sprites_7
+  - first:
+      213: -2034133702740335034
+    second: ice.duck.sprites_8
+  - first:
+      213: 5589556949621429401
+    second: ice.duck.sprites_9
+  - first:
+      213: -1568947612563965376
+    second: ice.duck.sprites_10
+  - first:
+      213: 3076443767036159438
+    second: ice.duck.sprites_11
+  - first:
+      213: 3978857393986790141
+    second: ice.duck.sprites_12
+  - first:
+      213: -1130746144125989584
+    second: ice.duck.sprites_13
+  - first:
+      213: 8540662468085129016
+    second: ice.duck.sprites_14
+  - first:
+      213: 1455215655703721188
+    second: ice.duck.sprites_15
+  - first:
+      213: 8585516161434061420
+    second: ice.duck.sprites_16
+  - first:
+      213: -9076367091858806315
+    second: ice.duck.sprites_17
+  - first:
+      213: 8231088258743653050
+    second: ice.duck.sprites_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice.duck.sprites_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046344d579d736c70800000000000000
+      internalID: 8963145772455704128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0cb47fb34ea8520800000000000000
+      internalID: 2705225472392544432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9ac91418924b980800000000000000
+      internalID: -8524142559577200178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 63
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b210d1f159d8342c0800000000000000
+      internalID: -4448556335300280021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 63
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfbbb59c6f492e30800000000000000
+      internalID: 4479198632183840694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 63
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b670af54308f320800000000000000
+      internalID: 2591825184634137490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 63
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe776cba7a661c50800000000000000
+      internalID: 6635608176356458237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 34
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec772e45d50aff10800000000000000
+      internalID: 2304160573050813672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 64
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6462386bc2e45c3e0800000000000000
+      internalID: -2034133702740335034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 35
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99450025e68129d40800000000000000
+      internalID: 5589556949621429401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a7de1857af93ae0800000000000000
+      internalID: -1568947612563965376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 37
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5a7a17e49b1ba20800000000000000
+      internalID: 3076443767036159438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 35
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2e48c08bdb73730800000000000000
+      internalID: 3978857393986790141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 33
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d4a347f58ce40f0800000000000000
+      internalID: -1130746144125989584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 6
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f99bca347868670800000000000000
+      internalID: 8540662468085129016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4bec5cde6f13410800000000000000
+      internalID: 1455215655703721188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 10
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a07a7f571e52770800000000000000
+      internalID: 8585516161434061420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 7
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9e5b6f7344a0280800000000000000
+      internalID: -9076367091858806315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice.duck.sprites_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2dd414923ba3270800000000000000
+      internalID: 8231088258743653050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 630f53dd633e51c4c9c9b93fdfe668da
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ice.duck.sprites_0: 8963145772455704128
+      ice.duck.sprites_1: 2705225472392544432
+      ice.duck.sprites_10: -1568947612563965376
+      ice.duck.sprites_11: 3076443767036159438
+      ice.duck.sprites_12: 3978857393986790141
+      ice.duck.sprites_13: -1130746144125989584
+      ice.duck.sprites_14: 8540662468085129016
+      ice.duck.sprites_15: 1455215655703721188
+      ice.duck.sprites_16: 8585516161434061420
+      ice.duck.sprites_17: -9076367091858806315
+      ice.duck.sprites_18: 8231088258743653050
+      ice.duck.sprites_2: -8524142559577200178
+      ice.duck.sprites_3: -4448556335300280021
+      ice.duck.sprites_4: 4479198632183840694
+      ice.duck.sprites_5: 2591825184634137490
+      ice.duck.sprites_6: 6635608176356458237
+      ice.duck.sprites_7: 2304160573050813672
+      ice.duck.sprites_8: -2034133702740335034
+      ice.duck.sprites_9: 5589556949621429401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

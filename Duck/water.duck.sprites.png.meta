@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: f5ba62c1211dbf5499c739c06adc2b5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8355396915457798472
+    second: water.duck.sprites_0
+  - first:
+      213: 7258848586560175696
+    second: water.duck.sprites_1
+  - first:
+      213: 6683336331570832986
+    second: water.duck.sprites_2
+  - first:
+      213: 3523720001165777941
+    second: water.duck.sprites_3
+  - first:
+      213: -6803714412938991055
+    second: water.duck.sprites_4
+  - first:
+      213: -4767796879615074369
+    second: water.duck.sprites_5
+  - first:
+      213: -6755847147720688602
+    second: water.duck.sprites_6
+  - first:
+      213: -1055129897877199912
+    second: water.duck.sprites_7
+  - first:
+      213: -2614552173189173485
+    second: water.duck.sprites_8
+  - first:
+      213: 5067664642496164302
+    second: water.duck.sprites_9
+  - first:
+      213: -2271531674686910985
+    second: water.duck.sprites_10
+  - first:
+      213: 6758982689959191071
+    second: water.duck.sprites_11
+  - first:
+      213: -8865801192647374514
+    second: water.duck.sprites_12
+  - first:
+      213: -6204113223463081434
+    second: water.duck.sprites_13
+  - first:
+      213: 5064041359905354747
+    second: water.duck.sprites_14
+  - first:
+      213: -7692745007301022059
+    second: water.duck.sprites_15
+  - first:
+      213: -4882217076580774793
+    second: water.duck.sprites_16
+  - first:
+      213: -1344407390693188819
+    second: water.duck.sprites_17
+  - first:
+      213: 7241987295728240799
+    second: water.duck.sprites_18
+  - first:
+      213: -9012559698517744523
+    second: water.duck.sprites_19
+  - first:
+      213: -3390698283663965601
+    second: water.duck.sprites_20
+  - first:
+      213: -3521836053593191869
+    second: water.duck.sprites_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water.duck.sprites_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be4eb036caab0c80800000000000000
+      internalID: -8355396915457798472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ef348945c9cb460800000000000000
+      internalID: 7258848586560175696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 95
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56edb5dbfaffbc50800000000000000
+      internalID: 6683336331570832986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cdc6deba4c6e030800000000000000
+      internalID: 3523720001165777941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ae09ff9c95491a0800000000000000
+      internalID: -6803714412938991055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 95
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfd355bff165ddb0800000000000000
+      internalID: -4767796879615074369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 95
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cb54b20d86e32a0800000000000000
+      internalID: -6755847147720688602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 66
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3a22db2fc6b51f0800000000000000
+      internalID: -1055129897877199912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 95
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f6556a6ae37bbd0800000000000000
+      internalID: -2614552173189173485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 67
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec17ac88426f35640800000000000000
+      internalID: 5067664642496164302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 68
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd0d3a1af5e970e0800000000000000
+      internalID: -2271531674686910985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 71
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12280622fabccd50800000000000000
+      internalID: 6758982689959191071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 67
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49c40fc9c856f480800000000000000
+      internalID: -8865801192647374514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 65
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aed21e4ef86e9a0800000000000000
+      internalID: -6204113223463081434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 38
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf37b0159c6174640800000000000000
+      internalID: 5064041359905354747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ea92c7c21ed3590800000000000000
+      internalID: -7692745007301022059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 41
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c8e0a9f61ee3cb0800000000000000
+      internalID: -4882217076580774793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 38
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b9254e994b75de0800000000000000
+      internalID: -1344407390693188819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9806c56315b08460800000000000000
+      internalID: 7241987295728240799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 7
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57429dc64b4fce280800000000000000
+      internalID: -9012559698517744523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52cead20e1d1f0d0800000000000000
+      internalID: -3390698283663965601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water.duck.sprites_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 6
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a0a6cc4ccef1fc0800000000000000
+      internalID: -3521836053593191869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      water.duck.sprites_0: -8355396915457798472
+      water.duck.sprites_1: 7258848586560175696
+      water.duck.sprites_10: -2271531674686910985
+      water.duck.sprites_11: 6758982689959191071
+      water.duck.sprites_12: -8865801192647374514
+      water.duck.sprites_13: -6204113223463081434
+      water.duck.sprites_14: 5064041359905354747
+      water.duck.sprites_15: -7692745007301022059
+      water.duck.sprites_16: -4882217076580774793
+      water.duck.sprites_17: -1344407390693188819
+      water.duck.sprites_18: 7241987295728240799
+      water.duck.sprites_19: -9012559698517744523
+      water.duck.sprites_2: 6683336331570832986
+      water.duck.sprites_20: -3390698283663965601
+      water.duck.sprites_21: -3521836053593191869
+      water.duck.sprites_3: 3523720001165777941
+      water.duck.sprites_4: -6803714412938991055
+      water.duck.sprites_5: -4767796879615074369
+      water.duck.sprites_6: -6755847147720688602
+      water.duck.sprites_7: -1055129897877199912
+      water.duck.sprites_8: -2614552173189173485
+      water.duck.sprites_9: 5067664642496164302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
