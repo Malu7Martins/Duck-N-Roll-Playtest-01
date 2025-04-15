@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0.Menu.unity
+    guid: 417746c37941af5428fafd229d91340e
+  - enabled: 1
+    path: Assets/Scenes/1.DuckLake.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/2.QuackshoreBay.unity
+    guid: 4eae6b6d84e1cc64a9215de57225fd41
+  - enabled: 1
+    path: Assets/Scenes/3.Frosty Quackway.unity
+    guid: 13d1af31c5aa60345bcf27ce880a8a97
+  - enabled: 1
+    path: Assets/Scenes/4.Scorchquack Valley.unity
+    guid: 8b249fb45ffb17d4d972a70a4ab93c8e
+  - enabled: 1
+    path: Assets/Scenes/5.Ducktron Station.unity
+    guid: 4cbade2dbf233d74bacaa6efbc8d90fa
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
